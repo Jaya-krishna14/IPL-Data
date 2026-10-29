@@ -1,0 +1,6 @@
+{
+  "name": "IPL Cricket Data Analysis Dashboard",
+  "description": "A comprehensive data analysis dashboard for IPL cricket statistics, featuring interactive charts, player analysis, and venue insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
